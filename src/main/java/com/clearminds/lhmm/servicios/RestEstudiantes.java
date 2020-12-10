@@ -8,7 +8,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import com.clearminds.entidades.Persona;
+
 import com.clearminds.lhmm.dtos.Estudiante;
 
 @Path("/estudiantes")
